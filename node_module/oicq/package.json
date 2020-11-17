@@ -1,0 +1,62 @@
+{
+  "_from": "oicq@1.5.0",
+  "_id": "oicq@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-pxp2RiArbJSMRbNRg0slFHOtqYqlP7AAATuDeVz8dHoE0yTQBzUq8hcuOZFrFZQzglXgF/Sq/+qJHiMn6ALZug==",
+  "_location": "/oicq",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "oicq@1.5.0",
+    "name": "oicq",
+    "escapedName": "oicq",
+    "rawSpec": "1.5.0",
+    "saveSpec": null,
+    "fetchSpec": "1.5.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/oicq/-/oicq-1.5.0.tgz",
+  "_shasum": "706196e9f36c6b7eed5c70452811eb8f81330532",
+  "_spec": "oicq@1.5.0",
+  "_where": "I:\\DDDnl\\onebot-1.0\\onebot-1.0",
+  "author": {
+    "name": "takayama"
+  },
+  "bugs": {
+    "url": "https://github.com/takayama-lily/oicq/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crypto-tea": "^0.2.0",
+    "jce": "^0.1.6",
+    "log4js": "^6.3.0",
+    "protobufjs": "^6.10.1"
+  },
+  "deprecated": false,
+  "description": "QQ protocol!",
+  "engines": {
+    "node": ">= v12.16"
+  },
+  "homepage": "https://github.com/takayama-lily/oicq#readme",
+  "keywords": [
+    "qq",
+    "oicq",
+    "protocol",
+    "android"
+  ],
+  "license": "AGPL-3.0",
+  "main": "client.js",
+  "name": "oicq",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takayama-lily/oicq.git"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "version": "1.5.0"
+}

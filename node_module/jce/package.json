@@ -1,0 +1,52 @@
+{
+  "_from": "jce@^0.1.6",
+  "_id": "jce@0.1.6",
+  "_inBundle": false,
+  "_integrity": "sha512-mHzHRfXE5NYcyIm5Nev7JsLV8KtD3VjJSO/UVe2TNQo+EHy1BvdvJUnNH8Y53u3HtxLonQw0PTKkyjj+CYOLww==",
+  "_location": "/jce",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "jce@^0.1.6",
+    "name": "jce",
+    "escapedName": "jce",
+    "rawSpec": "^0.1.6",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.6"
+  },
+  "_requiredBy": [
+    "/oicq"
+  ],
+  "_resolved": "https://registry.npmjs.org/jce/-/jce-0.1.6.tgz",
+  "_shasum": "f1477ab51829c02447cfd4b345fa0849f65bd140",
+  "_spec": "jce@^0.1.6",
+  "_where": "I:\\DDDnl\\onebot-1.0\\onebot-1.0\\node_modules\\oicq",
+  "author": {
+    "name": "takayama",
+    "email": "takayama@foxmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/takayama-lily/jce/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "JCE reader and writer for JavaScript",
+  "homepage": "https://github.com/takayama-lily/jce#readme",
+  "keywords": [
+    "jce-protocol",
+    "ttlv",
+    "serialization"
+  ],
+  "license": "MIT",
+  "main": "jce.js",
+  "name": "jce",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takayama-lily/jce.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "0.1.6"
+}

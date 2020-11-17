@@ -1,0 +1,46 @@
+{
+  "_from": "crypto-tea@^0.2.0",
+  "_id": "crypto-tea@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-XjWOP+En4pchyg7pVGpLPno04Vk=",
+  "_location": "/crypto-tea",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "crypto-tea@^0.2.0",
+    "name": "crypto-tea",
+    "escapedName": "crypto-tea",
+    "rawSpec": "^0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.0"
+  },
+  "_requiredBy": [
+    "/oicq"
+  ],
+  "_resolved": "https://registry.npmjs.org/crypto-tea/-/crypto-tea-0.2.0.tgz",
+  "_shasum": "5e358e3fe127e29721ca0ee9546a4b3e7a34e159",
+  "_spec": "crypto-tea@^0.2.0",
+  "_where": "I:\\DDDnl\\onebot-1.0\\onebot-1.0\\node_modules\\oicq",
+  "author": {
+    "name": "alee"
+  },
+  "bugs": {
+    "url": "https://github.com/aleechou/node-crypto-tea/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "``` npm install cryto-tea ```",
+  "homepage": "https://github.com/aleechou/node-crypto-tea#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "crypto-tea",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleechou/node-crypto-tea.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}
